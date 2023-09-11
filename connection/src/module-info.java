@@ -4,6 +4,6 @@
 /**
  * 
  */
-module Biblio {
+module connection {
 	requires java.sql;
 }
